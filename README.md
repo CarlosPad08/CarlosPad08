@@ -43,7 +43,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="background-color:white" /><br>Express
       </td>
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br>Tailwind CSS
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br>Tailwind
       </td>
     </tr>
   </table>
@@ -80,7 +80,6 @@
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux
       </td>
-      <td colspan="3"></td>
     </tr>
   </table>
 </p>
