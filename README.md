@@ -14,14 +14,84 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Tecnologías & Herramientas
 
-- **Languages:** JavaScript, Python, Java, C++, Scheme (DrRacket)
-- **Front-end:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, Figma
-- **Back-end:** Node.js, Express.js
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-- **Tools & Others:** Git, GitHub, Postman, Docker, Heroku, Bash, Linux
-- **Soft Skills:** Communication, adaptability, teamwork
+### 🚀 Tecnologías Principales
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /></a>
+  <br>JavaScript
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></a>
+  <br>Python
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /></a>
+  <br>HTML5
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /></a>
+  <br>CSS3
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /></a>
+  <br>React
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /></a>
+  <br>Node.js
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="background-color:white" /></a>
+  <br>Express
+</p>
+<p align="center">
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /></a>
+  <br>Tailwind CSS
+</p>
+
+---
+
+### 💡 Otras Tecnologías y Herramientas
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /></a>
+  <br>Java
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
+  <br>C++
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /></a>
+  <br>MongoDB
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /></a>
+  <br>MySQL
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" /></a>
+  <br>PostgreSQL
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /></a>
+  <br>Git
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /></a>
+  <br>GitHub
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></a>
+  <br>Docker
+</p>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /></a>
+  <br>Linux
+</p>
+
 
 ---
 
