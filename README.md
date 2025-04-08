@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Carlos Padilla</h1>
 <h3 align="center">Full Stack Web Developer | Systems Engineering Student | Tech Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=carlospad08&label=Profile%20views&color=0e75b6&style=flat" alt="carlospad08" />
+---
+
+<p align="center">
+  <a href="mailto:carlosfpm-@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://carlospad08.github.io/portafolio-personal-cfpm/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://t.me/carp_mesa" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/carp_mesa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
+
+---
 
 🎓 I'm a Systems Engineering student in my final semesters, trained as a Full Stack Web Developer through Talento Tech Bootcamp.  
 💻 Passionate about web development, with strong skills in JavaScript, Python, and building both front-end and back-end applications.  
@@ -86,25 +101,6 @@
   - Hotel website  
   - Air quality measurement app  
   - Synthetic field reservation system  
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:carlosfpm-@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://carlospad08.github.io/portafolio-personal-cfpm/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://t.me/carp_mesa" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/carp_mesa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
