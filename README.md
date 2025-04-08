@@ -91,18 +91,22 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: carlosfpm-@hotmail.com  
-- 🔗 Portfolio: [carlospad08.github.io/portafolio-personal-cfpm](https://carlospad08.github.io/portafolio-personal-cfpm/)  
-- 📱 Telegram: [@carp_mesa](https://t.me/carp_mesa)  
-- 📷 Instagram: [@carp_mesa](https://instagram.com/carp_mesa)
-
----
-
-<p align="left">
-  <a href="https://instagram.com/carp_mesa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carp_mesa" height="30" width="40" />
+<p align="center">
+  <a href="mailto:carlosfpm-@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://carlospad08.github.io/portafolio-personal-cfpm/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://t.me/carp_mesa" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/carp_mesa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospad08&show_icons=true&locale=en&layout=compact" alt="carlospad08" /></p>
 
