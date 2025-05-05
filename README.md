@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Carlos Padilla</h1>
-<h3 align="center">Full Stack Web Developer | Systems Engineering Student | Tech Enthusiast</h3>
+<h1 align="center">Hola 👋, soy Carlos Padilla</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFF&lines=Full+Stack+Web+Developer;Estudiante+de+Ingenieria+de+Sistemas&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=15&color=&pause=15000&lines=JavaScript+|+NodeJS+|+Express+|+JWT+|+DB&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=15&color=00FF99&pause=15000&lines=TypeScript+|+HTML+|+CSS+|+React+|+Tailwind&center=true&width=500&height=40">
+</p>
 
 ---
-
+<p>
 <p align="center">
   <a href="mailto:carlosfpm-@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -20,16 +24,20 @@
 
 ---
 
-🎓 I'm a Systems Engineering student in my final semesters, trained as a Full Stack Web Developer through Talento Tech Bootcamp.  
-💻 Passionate about web development, with strong skills in JavaScript, Python, and building both front-end and back-end applications.  
-🚀 I love learning new technologies and have participated in several personal, academic, and professional projects.  
-🤝 Great team player with strong soft skills and a quick learner mindset.  
-🌎 From Colombia, available for remote collaboration.  
-🐱 Fun fact: I like cats.
+Hola 👋 Soy un desarrollador Full Stack con pasión por construir soluciones funcionales y elegantes en la web. Actualmente estudio Ingeniería de Sistemas y me gusta demasiado combinar la lógica del backend con la creatividad del frontend.
+
+Siempre estoy explorando nuevas tecnologías, mejorando mis habilidades y participando en proyectos que resuelvan problemas reales. Me interesa todo lo relacionado con el desarrollo web, dar soluciones a problemas cotidianos y el impacto positivo de la tecnología.
+
+Mi stack actual incluye JavaScript, React, Node.js, Git y muchas más. También estoy aprendiendo sobre Python y FastAPI, arquitecturas modernas, buenas prácticas de desarrollo y CI/CD.
+
+¡Listo para colaborar, crear y seguir creciendo en comunidad!
+
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+<h2 align=center> 
+  🛠️ Tecnologías & Herramientas
+</h2>
 
 ### 🚀 Tecnologías Principales
 
@@ -85,7 +93,7 @@
 
 ---
 
-### 📚 Certifications & Learning
+### 📚 Certificaciones y cursos
 
 - 💻 Full Stack Web Dev Bootcamp – Talento Tech  
 - 🔁 Professional courses in React, NodeJS, JavaScript, Git, Docker, HTML y CSS
@@ -93,7 +101,7 @@
 
 ---
 
-### 🔨 Projects
+### 🔨 Proyectos
 
 - **Task Management Web App:** Node.js + React + SQL + Git  
 - **Real Estate Hub Website:** JavaScript + NoSQL + UI Design  
@@ -104,6 +112,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospad08&show_icons=true&locale=en&layout=compact" alt="carlospad08" /></p>
+### 📊 Estadisticas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospad08&show_icons=true&locale=en" alt="carlospad08" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPad08&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPad08&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosPad08&theme=radical"/>
+</p>
